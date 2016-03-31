@@ -62,9 +62,9 @@ computation. These servers are hosted and maintained by the HPC group of
 USIT. In 2015, using combined funds from the Norwegian Sequencing Centre, the Aqua
 Genome project as well as a generous contribution from the Faculty of Mathematics and Natural Sciences, we completely renewed the self-owned servers, which means that from this year, the following computational infrastructure were available to CEES researchers:
 
--   three high-memory servers with 32 CPUs and 1.5 Terabyte of RAM, and 64 TB local disc space each (‘cod5’, 'cod6', and ‘cod7’, bought in 2015)
+-   three high-memory servers with 32 CPUs and 1.5 Terabyte of RAM, and 64 TB local disk space each (‘cod5’, 'cod6', and ‘cod7’, bought in 2015)
 -   a more modest server to be developed into a genome browser, see below
--   256 regular CPUs (in servers of 16 CPU's each, with 64 GB RAM per server), providing us with the equivalent of 2.2 million CPU hours
+-   256 regular CPUs (in servers of 16 CPU's each, with 64 GB RAM per server), providing us with the equivalent of 2.2 million CPU hours per year
 
 The following resources were rented or allocated to CEES:
 
@@ -73,7 +73,7 @@ The following resources were rented or allocated to CEES:
     successfully renewed and now amounts to 5 million CPU hours per
     half year. We estimate we used around 6.7 million CPU hours in
     2015.
--   we rent 100 TB of project disk space (administrated by USIT, includes
+-   we rent 100 TB of project (shared) disk space (administrated by USIT, includes
     backup). The costs of this storage (1600 NOK/TB/year) are shared
     between users, proportionally to the used space
 -   we have, shared with the Norwegian Sequencing Centre, 100 TB disk
@@ -123,8 +123,9 @@ amounts of disk space are:
 -   resequencing projects (SNP finding and genotyping) that require many
     CPU hours for mapping sequencing data to a reference
 -   metagenomics and environmental sequencing projects
--   transcriptomics analysis pipelines
+-   genome annotation pipelines
 -   sequencing of mitochondrial genomes
+-   ecological modelling
 
 ### Genome browser
 
@@ -146,7 +147,7 @@ There are several mailing lists:
 ## Wiki
 
 We use a UiO wiki with articles dealing with the practicalities of using
-the resources at CEES, tips and trick, etc. The wiki is open to the
+the resources at CEES, tips and tricks, etc. The wiki is open to the
 world (<https://wiki.uio.no/mn/bio/cees-bioinf>). In 2015, the core group has started preparing porting over the wiki material to a new home in order to make collaborative editing more streamlined. This new wiki will be located at <https://github.com/uio-cees/hpc/wiki>.
 
 ## Courses
@@ -166,7 +167,7 @@ Sciences and the Science Library, three workshops open to all researchers at UiO
 
 The following is planned for 2016:
 -   moving the wiki over to the new website
--   further developing the teaching material and hold the first teaching session(s)
+-   further developing the lesson material and hold the first teaching session(s)
 -   releasing the first genome(s) through the Genome browser
 
 Blindern, March 31st, 2016
