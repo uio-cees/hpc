@@ -21,7 +21,6 @@ researchers are examples of bioinformaticians at CEES:
 
 ## People
 
-
 Based on the number of researchers subscribed to the different mailing
 lists (see below) we estimate more than 50 CEES members substantially
 rely on bioinformatic methods during their research.
@@ -162,6 +161,12 @@ self-paced instruction. The benefits are more reliable results and
 higher productivity: a day a week is common, and a ten-fold improvement
 isn't rare.’ With support from the faculty of Mathematics and Natural
 Sciences and the Science Library, three workshops open to all researchers at UiO were organised in 2015
+* CEES bioinformaticians were involved in several university and international courses
+  * High Throughput Sequencing technologies and bioinformatics analysis (INF-BIO9121 and INF-BIO5121, UiO)
+  * Bioinformatics for Metagenomic Analyses and Environmental Sequencing (BIO9905MERG1, UiO)
+  * Programming for Evolutionary Biology (Leipzig, Germany)
+  * Workshop on Molecular Evolution (Cesky Krumlov, Czech Republic)
+
 
 ## Outlook 2016
 
