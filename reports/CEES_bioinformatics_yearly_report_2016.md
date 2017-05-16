@@ -94,8 +94,8 @@ The following resources were rented by, or allocated to CEES:
     Norwegian infrastructure for the management, curation and long-term
     archiving of digital scientific data
 
-<img src="../images/storage_2016.png") width="280" height="202" />
-<img src="../images/abel_2016.png") width="280" height="202" />
+![](../images/storage_2016.png)
+![](../images/abel_2016.png)
 
 **Figure 1:** (left) storage at year’s end (in gigabyte) and
 (right) CPU hours used per half-year period (in million CPU hours) by CEES HPC resource users
@@ -159,7 +159,7 @@ There are several mailing lists for bioinformatics at CEES:
 -   cees-hpc @ ibv.uio.no (63 subscribers, up from 56) for specific
     information regarding shared Abel resources
 
-<img src="../images/mailing_lists_2016.png") width="280" height="202" />
+![](../images/mailing_lists_2016.png)
 
 **Figure 2:** Number of members of the different mailing lists for bioinformatics at CEES
 
@@ -180,7 +180,7 @@ sites around the world, and also provide open access material online for
 self-paced instruction. The benefits are more reliable results and
 higher productivity: a day a week is common, and a ten-fold improvement
 isn't rare.’ With support from the faculty of Mathematics and Natural
-Sciences and the Science Library, three workshops open to all researchers at UiO were organised in 2015
+Sciences and the Science Library, several workshops open to all researchers at UiO were organised in 2016, see <http://uio-carpentry.github.io> and <http://uio-no/carpentry>.
 * CEES bioinformaticians were involved in several university and international courses
   * High Throughput Sequencing technologies and bioinformatics analysis (INF-BIO9121 and INF-BIO5121, UiO)
   * Workshop on Molecular Evolution (Cesky Krumlov, Czech Republic)
