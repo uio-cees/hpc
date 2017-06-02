@@ -135,6 +135,7 @@ amounts of disk space are:
 -   projects to generate de novo genome assemblies of both small (bacterial) and large (eukaryote) genomes
 -   resequencing projects (SNP finding and genotyping) that require many
     CPU hours for mapping sequencing data to a reference
+-   transcriptome assembly: mapping transcripts to a reference genome/transcriptome, and differential expression analysis using RNA-seq data
 -   metagenomics and environmental sequencing projects
 -   genome annotation pipelines
 -   sequencing of mitochondrial genomes
