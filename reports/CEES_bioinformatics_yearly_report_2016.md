@@ -73,7 +73,7 @@ Starting with the project to sequence and assemble the genome of
 Atlantic cod in 2009, CEES has invested in its own hardware for
 computation. These servers are hosted and maintained by the HPC group of
 USIT. In 2015, using combined funds from the Norwegian Sequencing Centre, the Aqua
-Genome project as well as a generous contribution from the Faculty of Mathematics and Natural Sciences, we completely renewed the self-owned servers, which means that from this year, the following computational infrastructure were available to CEES researchers:
+Genome project as well as a generous contribution from the Faculty of Mathematics and Natural Sciences, we completely renewed the self-owned servers, which means that from that year, the following computational infrastructure were available to CEES researchers:
 
 -   three high-memory servers with 32 CPUs and 1.5 Terabyte of RAM, and 64 TB local disk space each (‘cod5’, 'cod6', and ‘cod7’, bought in 2015)
 -   a more modest server for the genome browser, see below
@@ -142,7 +142,7 @@ amounts of disk space are:
 
 ### Genome browser
 
-In collaboration with the Norwegian ELIXIR environment at NMBU, CEES has in 2016 established a Genome Browser which can be used for genomes resulting from research performed at CEES. A genome browser is a graphical interface for viewing and accessing genomic data for a species. The first genome presneted through this browser was the updated Atlantic cod (*Gadus morhua*) genome, gadMor2. A sparrow genome browser is under development.
+In collaboration with the Norwegian ELIXIR environment at NMBU, CEES has in 2016 established a Genome Browser which can be used for genomes resulting from research performed at CEES. A genome browser is a graphical interface for viewing and accessing genomic data for a species. The first genome presented through this browser was the updated Atlantic cod (*Gadus morhua*) genome, gadMor2. A sparrow genome browser is under development.
 
 Links to these genome browsers can be found
 [at this website](https://www.mn.uio.no/cees/english/research/about/infrastructure/genome-browser/).
