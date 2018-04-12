@@ -1,6 +1,6 @@
 # Getting access to the Nird storage
 
-* Fill out the form at https://www.metacenter.no/user/application/form/norstore/
+* * Using the instructions below, fill out the form at https://www.metacenter.no/user/application/form/norstore/
   * Start date (yyyy-mm-dd): use today's date
   * End date (yyyy-mm-dd): use December 31st of the current year. We will extend access with another year each December for those users that still need it
   * Project: NS9003K
