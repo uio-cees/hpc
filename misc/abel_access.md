@@ -1,6 +1,6 @@
 # Getting access to Abel CPU allocations
 
-* Fill out this form: https://www.metacenter.no/user/application/form/notur/
+* Using the instructions below, fill out this form: https://www.metacenter.no/user/application/form/notur/
   * Under resources, choose abel
   * Start date (yyyy-mm-dd): use today's date
   * End date (yyyy-mm-dd): use December 31st of the current year. We will extend access with another year each December for those users that still need it
