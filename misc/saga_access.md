@@ -1,4 +1,4 @@
-# Getting access to Abel CPU allocations
+# Getting access to Saga CPU allocations
 
 * Using the instructions below, fill out this form: https://www.metacenter.no/user/application/form/notur/
   * Under resources, choose Saga
